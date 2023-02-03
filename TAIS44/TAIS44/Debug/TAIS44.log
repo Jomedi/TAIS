@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\jorme\source\repos\TAIS44\TAIS44\Source.cpp(79,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorme\source\repos\TAIS44\TAIS44\Source.cpp(84,23): warning C4018: '<': no coinciden signed/unsigned
+  TAIS44.vcxproj -> C:\Users\jorme\source\repos\TAIS44\Debug\TAIS44.exe

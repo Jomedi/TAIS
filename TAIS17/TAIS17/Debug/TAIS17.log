@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\jorme\source\repos\TAIS17\TAIS17\Source.cpp(64): warning C4715: 'bfs': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jorme\source\repos\TAIS17\TAIS17\Source.cpp(38): warning C4715: 'adyacente': no todas las rutas de acceso de control devuelven un valor
+  TAIS17.vcxproj -> C:\Users\jorme\source\repos\TAIS17\Debug\TAIS17.exe

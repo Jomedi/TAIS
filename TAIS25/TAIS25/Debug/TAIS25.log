@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\jorme\source\repos\TAIS25\TAIS25\PriorityQueue.h(39,28): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorme\source\repos\TAIS25\TAIS25\PriorityQueue.h(37): message : al compilar la función del miembro clase plantilla "PriorityQueue<Arista<Valor>,std::less<T>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)"
+          with
+          [
+              Valor=int,
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+C:\Users\jorme\source\repos\TAIS25\TAIS25\Source.cpp(57): message : Vea la referencia a la creación de una instancia de la función plantilla "PriorityQueue<Arista<Valor>,std::less<T>>::PriorityQueue(const std::vector<Arista<Valor>,std::allocator<Arista<Valor>>> &,Comparator)" que se está compilando
+          with
+          [
+              Valor=int,
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+C:\Users\jorme\source\repos\TAIS25\TAIS25\Source.cpp(57): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<Arista<Valor>,std::less<T>>" que se está compilando
+          with
+          [
+              Valor=int,
+              T=Arista<int>
+          ]
+C:\Users\jorme\source\repos\TAIS25\TAIS25\Source.cpp(56): message : al compilar la función del miembro clase plantilla "ARM_Kruskal<int>::ARM_Kruskal(const GrafoValorado<int> &)"
+C:\Users\jorme\source\repos\TAIS25\TAIS25\Source.cpp(93): message : Vea la referencia a la creación de una instancia de la función plantilla "ARM_Kruskal<int>::ARM_Kruskal(const GrafoValorado<int> &)" que se está compilando
+C:\Users\jorme\source\repos\TAIS25\TAIS25\Source.cpp(93): message : Vea la referencia a la creación de una instancia de clase plantilla "ARM_Kruskal<int>" que se está compilando
+  TAIS25.vcxproj -> C:\Users\jorme\source\repos\TAIS25\Debug\TAIS25.exe

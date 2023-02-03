@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\jorme\source\repos\TAIS26\TAIS26\Source.cpp(150,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\jorme\source\repos\TAIS26\TAIS26\Source.cpp(148): message : al compilar la función del miembro clase plantilla "Dijkstra<int>::Dijkstra(const DigrafoValorado<int> &,int,std::vector<int,std::allocator<int>>)"
+C:\Users\jorme\source\repos\TAIS26\TAIS26\Source.cpp(216): message : Vea la referencia a la creación de una instancia de la función plantilla "Dijkstra<int>::Dijkstra(const DigrafoValorado<int> &,int,std::vector<int,std::allocator<int>>)" que se está compilando
+C:\Users\jorme\source\repos\TAIS26\TAIS26\Source.cpp(216): message : Vea la referencia a la creación de una instancia de clase plantilla "Dijkstra<int>" que se está compilando
+  TAIS26.vcxproj -> C:\Users\jorme\source\repos\TAIS26\Debug\TAIS26.exe
